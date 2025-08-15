@@ -7,7 +7,8 @@
 
 ## 15.08.2024
 
-- [ ]
-- [ ] 
+- [ ] Firmen nach einer möglichen Stelle betrachten
+- [ ] Bewerbungen umschreiben
+- [ ] Website besser optimieren
 
 ✍️ Heute habe ich
