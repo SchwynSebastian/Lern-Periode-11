@@ -5,7 +5,7 @@
 - Ich möchte meine Programmierkenntnisse erfrischen
 - Ich möchte in dieser LP viel Zeit fürs bewerbungen verwenden
 
-## 18.10.2024
+## 15.08.2024
 
 - [ ]
 - [ ] 
