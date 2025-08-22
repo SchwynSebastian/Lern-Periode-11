@@ -9,14 +9,13 @@
 
 - [x] Firmen nach einer möglichen Stelle betrachten
 - [x] Bewerbungen umschreiben
-- [ ] Website besser optimieren
+- [x] Website besser optimieren
 
-✍️ Heute habe ich
+✍️ Heute habe ich viel Zeit genutzt, um verschiedene Firmen anzuschauen und ein paar Bewerbungen für diese Firmen umzuschreiben. Ich habe danach auch angefangen, meine Website besser zu optimieren.
 
 ## 22.08.2024
 
-- [ ] Firmen nach einer möglichen Stelle betrachten
-- [ ] Bewerbungen umschreiben
-- [ ] Website besser optimieren
+- [ ] Weitere Firmen anschauen
+- [ ] Für das Modul Mobile Applikationen Aufgaben lösen
 
 ✍️ Heute habe ich
