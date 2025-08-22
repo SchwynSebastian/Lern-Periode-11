@@ -7,6 +7,14 @@
 
 ## 15.08.2024
 
+- [x] Firmen nach einer möglichen Stelle betrachten
+- [x] Bewerbungen umschreiben
+- [ ] Website besser optimieren
+
+✍️ Heute habe ich
+
+## 22.08.2024
+
 - [ ] Firmen nach einer möglichen Stelle betrachten
 - [ ] Bewerbungen umschreiben
 - [ ] Website besser optimieren
