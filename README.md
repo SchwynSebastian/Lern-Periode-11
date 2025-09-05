@@ -5,7 +5,7 @@
 - Ich möchte meine Programmierkenntnisse erfrischen
 - Ich möchte in dieser LP viel Zeit fürs bewerbungen verwenden
 
-## 15.08.2024
+## 15.08.2025
 
 - [x] Firmen nach einer möglichen Stelle betrachten
 - [x] Bewerbungen umschreiben
@@ -13,9 +13,23 @@
 
 ✍️ Heute habe ich viel Zeit genutzt, um verschiedene Firmen anzuschauen und ein paar Bewerbungen für diese Firmen umzuschreiben. Ich habe danach auch angefangen, meine Website besser zu optimieren.
 
-## 22.08.2024
+## 22.08.2025
 
-- [ ] Weitere Firmen anschauen
-- [ ] Für das Modul Mobile Applikationen Aufgaben lösen
+- [x] Weitere Firmen anschauen
+- [x] Für das Modul Mobile Applikationen Aufgaben lösen
+
+✍️ Heute habe ich
+
+## 29.08.2025
+
+- [x] Bewerbungen abschicken
+- [x] Ideen und die Grundstruktur, Grundplanung festlegen
+
+✍️ Heute habe ich
+
+## 05.09.2025
+
+- [ ] 
+- [ ] 
 
 ✍️ Heute habe ich
